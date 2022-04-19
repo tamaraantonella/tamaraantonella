@@ -2,6 +2,9 @@
 ### Front End Developer - Trainee
 Me presento, empecé como autodidacta en plataformas como freeCampCode y SoloLearn, y ahora estoy cursando en CoderHouse (Desarrollo Web, Javascript y React) además continuo mi carrera de grado en Farmacia.
 
+
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+
 Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona responsable, proactiva, tengo habilidad para trabajar en equipo, soy organizada y cuento con mucha automotivación, busco poner en práctica los conocimientos adquiridos en mi formación complementaria, con la oportunidad de aprender y ser un aporte de valor para el equipo de trabajo
 
 #### Contactame:
@@ -41,11 +44,14 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 
 #### Actualidad:
 🔭 Estoy trabajando en el proyecto final del curso de desarrollo web en CoderHouse y en proyectos freelance. 
-🌱 Estoy aprendiendo SASS, Js y React 
 
+#### Aprendiendo y practicando:
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-
+### Muchas gracias por visitar mi perfil!
 <!---
 tamaraantonella/tamaraantonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
