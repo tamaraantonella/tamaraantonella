@@ -1,6 +1,6 @@
 # Hola 👋, Mi nombre es Tamara Antonella Frazzetta
 ### Front End Dev - Trainee
-Me presento, empecé como autodidacta en plataformas como freeCampCode y SoloLearn, y ahora estoy cursando en CoderHouse (Desarrollo Web, Javascript y React) además continuo mi carrera de grado en Farmacia.
+Me presento, empecé como autodidacta en plataformas como freeCampCode y SoloLearn, estudié en CoderHouse Desarrollo Web y en Crehana HTML y CSS. Ahora estoy cursando en CoderHouse Javascript y React.
 
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
@@ -43,13 +43,13 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 
 
 #### Actualidad:
-🔭 Estoy trabajando en el proyecto final del curso de desarrollo web en CoderHouse y en proyectos freelance. 
+🔭 Estoy capacitándome en búsqueda de mi primer oportunidad en el mundo IT. 
 
 #### Aprendiendo y practicando:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
 
 ### Muchas gracias por visitar mi perfil!
 <!---
