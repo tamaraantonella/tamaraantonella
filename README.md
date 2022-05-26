@@ -1,4 +1,9 @@
-# Hola 👋, Mi nombre es Tamara Antonella Frazzetta
+<img src = "img (2).png" align="center"></img>
+
+##
+-------
+
+
 ### Front End Dev - Trainee
 Me presento, empecé como autodidacta en plataformas como freeCampCode y SoloLearn, estudié en CoderHouse Desarrollo Web y en Crehana HTML y CSS. Ahora estoy cursando en CoderHouse Javascript y React.
 
