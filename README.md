@@ -11,7 +11,6 @@ I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now 
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona responsable, proactiva, tengo habilidad para trabajar en equipo, soy organizada y cuento con mucha automotivación, busco poner en práctica los conocimientos adquiridos en mi formación complementaria, con la oportunidad de aprender y ser un aporte de valor para el equipo de trabajo
 
 Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
 
