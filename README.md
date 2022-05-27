@@ -1,20 +1,19 @@
-<img src = "img (2).png" align="center"></img>
+<h1 align="center">Hi , I'm Tamara Frazzetta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-##
 -------
-
+![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
 ### Front End Dev - Trainee
-Me presento, empecé como autodidacta en plataformas como freeCampCode y SoloLearn, estudié en CoderHouse Desarrollo Web y en Crehana HTML y CSS. Ahora estoy cursando en CoderHouse Javascript y React.
+I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm studying Frontend Web Development at Coderhouse. (Js, ReactJs)
+
+
 
 
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
 Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona responsable, proactiva, tengo habilidad para trabajar en equipo, soy organizada y cuento con mucha automotivación, busco poner en práctica los conocimientos adquiridos en mi formación complementaria, con la oportunidad de aprender y ser un aporte de valor para el equipo de trabajo
 
-#### Contactame:
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:tamarafrazzetta@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-antonella-f-5756939b/)
+Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
 
 ##
 
@@ -26,7 +25,7 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 
 </p>
 
-#### Frameworks & Librerías:
+#### Frameworks:
 <p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" title="Sass"></a>
@@ -34,7 +33,7 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 </p>
 
 
-#### Herramientas:
+#### Tools:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -47,10 +46,7 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-#### Actualidad:
-🔭 Estoy capacitándome en búsqueda de mi primer oportunidad en el mundo IT. 
-
-#### Aprendiendo y practicando:
+#### Learning:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -58,7 +54,10 @@ Dentro del mundo IT no poseo experiencia laboral, pero me considero una persona 
 #### My Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tamaraantonella&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### Muchas gracias por visitar mi perfil!
+
+#### Let's connect:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:tamarafrazzetta@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamara-antonella-f-5756939b/)
 <!---
 tamaraantonella/tamaraantonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
