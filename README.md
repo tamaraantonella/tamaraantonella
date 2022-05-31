@@ -51,7 +51,7 @@ Within the IT world I don't have work experience, but I consider myself a respon
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### My Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tamaraantonella&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamaraantonella&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 #### Let's connect:
