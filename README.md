@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
 ### Front End Dev - Trainee
-I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm studying Frontend Web Development at Coderhouse. (Js, ReactJs)
+I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm studying Fullstack Dev (Henry).
 
 
 
