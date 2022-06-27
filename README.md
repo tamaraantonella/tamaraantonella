@@ -3,14 +3,15 @@
 -------
 ![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
-### Front End Dev - Trainee
+### Fullstack Dev Student
 I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm studying Fullstack Dev (Henry).
 
 
 
+###
+<a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
 
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-
+-------
 
 Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
 
