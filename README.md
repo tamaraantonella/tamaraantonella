@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
 ### Fullstack Dev Student
-I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm studying Fullstack Dev (Henry).
+I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm a Fullstack Dev student (Henry).
 
 
 
@@ -13,7 +13,7 @@ I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now 
 
 -------
 
-<a href="https://app.daily.dev/tamaraAnto"><img src="https://api.daily.dev/devcards/170eb706971a4d6bb82a20a494a8fa98.png?r=cr4" align="right" width="350" alt="Tamara Antonella Frazzetta's Dev Card"/></a> 
+
 Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
 
 
@@ -26,12 +26,6 @@ Within the IT world I don't have work experience, but I consider myself a respon
     <a href="#"><img src="https://img.icons8.com/color/50/000000/css3.png" alt="CSS" title="CSS"></a>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascrript" title="Javascrript"></a>
     <a href="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
-
-
-</p>
-
-#### Frameworks:
-<p>
     <a href="#"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap"></a>
     <a href="#"><img src="https://img.icons8.com/color/48/000000/sass.png" alt="Sass" title="Sass"></a>
     <a href="#"><img src="https://img.icons8.com/external-vitaliy-gorbachev-blue-vitaly-gorbachev/48/000000/external-atom-nuclear-energy-vitaliy-gorbachev-blue-vitaly-gorbachev.png" alt="React" title="React JS"></a>
