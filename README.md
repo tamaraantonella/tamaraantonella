@@ -3,8 +3,10 @@
 -------
 ![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
-### Fullstack Dev Student
-I started as a self-taught on platforms such as freeCampCode and SoloLearn. Now I'm a Fullstack Dev student (Henry).
+### Fullstack Developer 
+
+Front-End Developer (CoderHouse)
+Fullstack Developer (Henry)
 
 
 
