@@ -1,24 +1,22 @@
-<h1 align="center">Hi , I'm Tamara Frazzetta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
--------
-![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
-
-### Fullstack Developer 
-
-Front-End Developer (CoderHouse)
-Fullstack Developer (Henry)
 
 
 
-###
+<img align="center" height="500" width="100%" src= "https://res.cloudinary.com/dfbxjt69z/image/upload/v1665514193/The_Bonfire_Diaries_Video_i08rf2.gif" alt= "tamara"/>
+
+# Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
+
+<p>I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration. 
+
+I've been working with technology since 2022, I don't have work experience, but I consider myself a responsible, proactive person. I've worked on group and individual projects, improving my soft and hard skills.
+
+
+</p>
+
+I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
+
 <a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
 
 -------
-
-
-Within the IT world I don't have work experience, but I consider myself a responsible, proactive person. I have the ability to work in a team, I'm organized and highly self-motivated, I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
-
-
 
 
 
@@ -44,7 +42,7 @@ Within the IT world I don't have work experience, but I consider myself a respon
 
 
 -------
-#### My Streak Stats
+### My Streak Stats
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=tamaraantonella&hide=stars&show_icons=true&theme=dracula&line_height=40">
@@ -64,3 +62,8 @@ Within the IT world I don't have work experience, but I consider myself a respon
 tamaraantonella/tamaraantonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
+
+</div>
