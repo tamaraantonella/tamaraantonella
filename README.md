@@ -1,7 +1,19 @@
 
+<div align="center" display="grid">
 
+<img align="center"  src= "https://res.cloudinary.com/dfbxjt69z/image/upload/v1665578284/The_Bonfire_Diaries_Video_q08e4u.gif" alt= "tamara"/>
+</div>
 
-<img align="center" height="500" width="100%" src= "https://res.cloudinary.com/dfbxjt69z/image/upload/v1665514193/The_Bonfire_Diaries_Video_i08rf2.gif" alt= "tamara"/>
+----
+<p align='center'>
+<a href="https://www.linkedin.com/in/tamara-frazzetta/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   
+  <a href="https://twitter.com/TamaraaDev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
 
 # Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
 
@@ -16,7 +28,7 @@ I look forward to put into practice the knowledge acquired in my complementary t
 
 <a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
 
--------
+
 
 
 
@@ -35,6 +47,7 @@ I look forward to put into practice the knowledge acquired in my complementary t
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 
@@ -43,27 +56,31 @@ I look forward to put into practice the knowledge acquired in my complementary t
 
 -------
 ### My Streak Stats
-<p align="center">
+<div >
 
-  <img src="https://github-readme-stats.vercel.app/api?username=tamaraantonella&hide=stars&show_icons=true&theme=dracula&line_height=40">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraantonella&count_private=true&theme=dracula">
-
-</p>
-
-
-
-#### Let's connect:
-
-
-<a href="https://www.linkedin.com/in/tamara-frazzetta/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tamara-frazzetta/" height="30" width="40" />
-</a>
-<!---
-tamaraantonella/tamaraantonella is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraantonella&layout=compact&theme=slateorange )](https://github.com/tamaraantonella/)
+<!--- 
+[![Tamara Antonella's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaraantonella&count_private=true&show_icons=true&theme=slateorange )] 
 --->
+
+</div>
+
+-------
+
+ ### My projects
+  
+ FOODY APP - IP @SoyHenry Bootcamp - <a href="https://foody-app-indol.vercel.app/">Link to Website</a>
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamaraantonella&repo=PI-food-tamara&theme=apprentice)](https://github.com/tamaraantonella/PI-food-tamara)
+
+MASCOTAPP - FP @SoyHenry Bootcamp - <a href="https://mascotapps.vercel.app/">Link to Website</a>  
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-front&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-back&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-back)
+
 <div align="right">
 
 ![](https://komarev.com/ghpvc/?username=tamaraantonella&color=ff69b4)
 
 </div>
+
