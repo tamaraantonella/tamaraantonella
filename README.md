@@ -1,4 +1,5 @@
 
+
 <div align="center" display="grid">
 
 <img align="center"  src= "https://res.cloudinary.com/dfbxjt69z/image/upload/v1665578284/The_Bonfire_Diaries_Video_q08e4u.gif" alt= "tamara"/>
@@ -77,6 +78,9 @@ MASCOTAPP - FP @SoyHenry Bootcamp - <a href="https://mascotapps.vercel.app/">Lin
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-front&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-front)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-back&theme=apprentice)](https://github.com/laureanomarenco/mascotapps-back)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <div align="right">
 
