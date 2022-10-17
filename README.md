@@ -111,7 +111,10 @@ I look forward to put into practice the knowledge acquired in my complementary t
 
 -------
 
- 
+
+<div >
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C63D&width=435&lines=Thanks+for+your+visit+!" alt="Typing SVG" /></a>
+</div>
 
 <div align="right">
 
