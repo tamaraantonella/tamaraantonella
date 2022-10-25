@@ -92,7 +92,7 @@ I look forward to put into practice the knowledge acquired in my complementary t
             <!-- Projects -->
             <a href="https://github.com/laureanomarenco/mascotapps-front">
             <img alt="Tamara Antonella's GitHub PROJECT"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=tamaraantonella&repo=PI-food-tamara&theme=apprentice" />
+                    src="https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-front&theme=apprentice" />  
             </a>
             <br>
         </p>
