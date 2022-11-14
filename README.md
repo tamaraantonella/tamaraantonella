@@ -56,7 +56,6 @@ I look forward to put into practice the knowledge acquired in my complementary t
     <a href="https://dotnet.microsoft.com/" title="dotNet"><img alt="dotnet" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"></a>  
     <a href="https://visualstudio.microsoft.com/es/" title="visualstudio"><img alt="vs" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"></a>  
     <a href="https://visualstudio.microsoft.com/es/" title="visualstudiocode"><img alt="vsc" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"></a>  
-    
     </p>
 </details>
 
