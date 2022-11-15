@@ -119,10 +119,10 @@ I look forward to put into practice the knowledge acquired in my complementary t
 <!--START_SECTION:waka-->
 
 ```text
-C#           8 hrs 30 mins   █████████████████████████   99.50 %
+C#           8 hrs 32 mins   █████████████████████████   99.52 %
 JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
