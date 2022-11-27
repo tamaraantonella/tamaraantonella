@@ -77,10 +77,10 @@ I look forward to put into practice the knowledge acquired in my complementary t
 
 <details>
     <summary> <samp>💛 My Projects</samp></summary>
+        <h5>Here you can see my bootcamp projects.</h5>
         <p>
-         <br>
         FOODY APP - IP @SoyHenry Bootcamp - <a href="https://foody-app-indol.vercel.app/">Link to Website</a>
-       </p> 
+        </p> 
         <p>  
             <!-- Projects -->
             <a href="https://github.com/tamaraantonella/PI-food-tamara">
