@@ -119,11 +119,10 @@ I look forward to put into practice the knowledge acquired in my complementary t
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   31 hrs 44 mins  ████████████████████████░   96.14 %
-CSS          23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+JavaScript   31 hrs 10 mins  ████████████████████████░   96.65 %
+JSON         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+CSS          20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Other        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
