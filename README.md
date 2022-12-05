@@ -118,9 +118,8 @@ I look forward to put into practice the knowledge acquired in my complementary t
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   20 hrs 28 mins  ████████████████████████░   96.13 %
-CSS          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+JavaScript   13 hrs 27 mins  ████████████████████████░   96.25 %
+Other        17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
 ```
 
 <!--END_SECTION:waka-->
