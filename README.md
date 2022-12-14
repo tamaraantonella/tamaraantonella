@@ -25,7 +25,7 @@ I've been working with technology this year. I've worked on group and individual
 
 </p>
 
-I look forward to put into practice the knowledge acquired in my complementary training, with the opportunity to learn and be a valuable contribution to a work team.
+
 
 
 
