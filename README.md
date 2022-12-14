@@ -120,12 +120,12 @@ I've been working with technology this year. I've worked on group and individual
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 14 mins   ██████████████▓░░░░░░░░░░   58.78 %
-JavaScript   3 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-HTML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
-Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-CSS          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   6 hrs 14 mins   █████████████████████░░░░   83.90 %
+HTML         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JSON         12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Git Config   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+CSS          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
