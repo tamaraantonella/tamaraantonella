@@ -120,9 +120,10 @@ I've been working with technology this year. I've worked on group and individual
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   10 hrs 25 mins  █████████████████░░░░░░░░   68.43 %
-SCSS         4 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.69 %
-Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+TypeScript   10 hrs 44 mins  ███████████████████░░░░░░   75.90 %
+SCSS         3 hrs 16 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+AsciiDoc     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
