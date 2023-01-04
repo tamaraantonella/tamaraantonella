@@ -115,17 +115,6 @@ I've been working with technology this year. I've worked on group and individual
         
 </details>
 
--------
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   3 hrs 33 mins   █████████████████████▒░░░   85.47 %
-SCSS         30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-```
-
-<!--END_SECTION:waka-->
 
 <div >
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C63D&width=435&lines=Thanks+for+your+visit+!" alt="Typing SVG" /></a>
