@@ -1,25 +1,9 @@
-
-
-<div align="center" display="grid">
-
-<img align="center"  src= "https://res.cloudinary.com/dfbxjt69z/image/upload/v1665578284/The_Bonfire_Diaries_Video_q08e4u.gif" alt= "tamara"/>
+  
+ 
+<div>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=886ce4&width=435&lines=Welcome+to+my+github+profile+!" alt="Typing SVG" /></a>
 </div>
-
-----
-<p align='center'>
-<!---
-    <a href="https://www.linkedin.com/in/tamara-frazzetta/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  --->
-   
-  <a href="https://twitter.com/TamaraaDev">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</p>
-
-# Welcome to my GitHub! <img width="30" src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" alt="party blob" />
-
+  
 <p>I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration. 
 
 I've been working with technology this year. I've worked on group and individual projects, improving my soft and hard skills.
@@ -28,16 +12,8 @@ I've been working with technology this year. I've worked on group and individual
 </p>
 
 
-
-
-
-
-
-
-
-
 <details>
-    <summary><samp> 💛 Languages & Tools</samp> </summary>
+    <summary><samp> 💜 Languages & Tools</samp> </summary>
      <p align="left">   
     <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" title="csharp"><img alt="Csharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
     <a href="https://www.w3.org/html/" target="_blank" title="html5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -63,7 +39,7 @@ I've been working with technology this year. I've worked on group and individual
 
 
 <details>
-    <summary> <samp>💛 My Stats</samp></summary>
+    <summary> <samp>💜 My Stats</samp></summary>
         <p>
             <br>
             <!-- Activity Widget -->
@@ -78,7 +54,7 @@ I've been working with technology this year. I've worked on group and individual
 
 
 <details>
-    <summary> <samp>💛 My Bootcamp Projects</samp></summary>
+    <summary> <samp>💜 My Bootcamp Projects</samp></summary>
         <p>
         FOODY APP - IP @SoyHenry Bootcamp - <a href="https://foody-app-indol.vercel.app/">Link to Website</a>
         </p> 
@@ -115,10 +91,10 @@ I've been working with technology this year. I've worked on group and individual
         
 </details>
 
+<a href="https://twitter.com/TamaraaDev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
-<div >
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C63D&width=435&lines=Thanks+for+your+visit+!" alt="Typing SVG" /></a>
-</div>
 
 <div align="right">
 
