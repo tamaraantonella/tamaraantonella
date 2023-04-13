@@ -4,12 +4,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=886ce4&width=435&lines=Welcome+to+my+github+profile+!" alt="Typing SVG" /></a>
 </div>
   
-<p>I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration. 
-
-I've been working with technology this year. I've worked on group and individual projects, improving my soft and hard skills.
-
-
-</p>
+<p>I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration. </p>
 
 
 <details>
