@@ -7,84 +7,32 @@
 <p>I'm here on GitHub to share my personal projects, contribute to third-party projects & get inspiration. </p>
 
 
-<details>
-    <summary><samp> 💜 Languages & Tools</samp> </summary>
-     <p align="left">   
-    <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" title="csharp"><img alt="Csharp" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
-    <a href="https://www.w3.org/html/" target="_blank" title="html5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" title="css"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="javascript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<samp> 💜 Languages & Tools</samp>
+<p align="left">   
+        <a href="https://www.typescriptlang.org/" title="typescript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="javascript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://nestjs.com/" title="nest js" target="_blank"> <img src="https://res.cloudinary.com/dvfxhcflx/image/upload/v1687981229/icons8-nestjs-48_kdo5nv.png" alt="NESTJS" width="40" height="40"/>  </a> 
+  <a href="https://www.mysql.com/" title="mysql" target="_blank"> <img src="https://res.cloudinary.com/dvfxhcflx/image/upload/v1687981416/icons8-my-sql-48_exl504.png" alt="mysql" width="40" height="40"/> </a> 
+    <a href="https://www.docker.com/" target="_blank" title="docker"> <img src="https://res.cloudinary.com/dvfxhcflx/image/upload/v1687981513/icons8-docker-48_ymxchs.png" alt="express" width="40" height="40"/> </a> 
+  <a href="https://aws.amazon.com/es/" title="aws" target="_blank"> <img src="https://res.cloudinary.com/dvfxhcflx/image/upload/v1687981628/icons8-amazon-web-services-48_h4jy19.png" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank" title="expressjs"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank" title="firebase"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" title="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://nodejs.org" target="_blank" title="node"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
     <a href="https://sequelize.org/" title="sequelize"><img alt="Csharp" width="40" height="40" src="https://icongr.am/devicon/sequelize-original.svg?size=128&color=currentColor"></a> 
     <a href="https://www.postgresql.org" target="_blank" title="postgreSQL" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
     <a href="https://postman.com" target="_blank"title="postman" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://reactjs.org/" target="_blank" title="react" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank" title="react native"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-    <a href="https://redux.js.org" target="_blank" title="redux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" title="tailwind"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-    <a href="https://www.typescriptlang.org/" title="typescript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <a href="https://dotnet.microsoft.com/" title="dotNet"><img alt="dotnet" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-.net-framework-48_uqzbay.png"></a>  
-    <a href="https://visualstudio.microsoft.com/es/" title="visualstudio"><img alt="vs" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-estudio-visual-48_ay8k60.png"></a>  
-    <a href="https://visualstudio.microsoft.com/es/" title="visualstudiocode"><img alt="vsc" width="40" height="40" src="https://res.cloudinary.com/dfbxjt69z/image/upload/v1668107831/icons/icons8-visual-studio-code-2019-48_cbwjnx.png"></a>  
-    </p>
-</details>
+</p>
 
 
-<details>
-    <summary> <samp>💜 My Stats</samp></summary>
+<samp>💜 My Stats</samp>
         <p>
-            <br>
             <!-- Activity Widget -->
             <img alt="Tamara Antonella's GitHub Stats"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamaraantonella&layout=compact&theme=slateorange" />
-            <br>
         </p>
         <a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
         
-</details>
-
-
-
-<details>
-    <summary> <samp>💜 My Bootcamp Projects</samp></summary>
-        <p>
-        FOODY APP - IP @SoyHenry Bootcamp - <a href="https://foody-app-indol.vercel.app/">Link to Website</a>
-        </p> 
-        <p>  
-            <!-- Projects -->
-            <a href="https://github.com/tamaraantonella/PI-food-tamara">
-            <img alt="Tamara Antonella's GitHub PROJECT"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=tamaraantonella&repo=PI-food-tamara&theme=apprentice" />
-            </a>
-            <br>
-        </p>
-        <p>
-         <br>
-        MASCOTAPP - FP @SoyHenry Bootcamp - <a href="https://mascotapps.vercel.app/">Link to Website</a>  
-       </p> 
-        <p>  
-            <!-- Projects -->
-            <a href="https://github.com/laureanomarenco/mascotapps-front">
-            <img alt="Tamara Antonella's GitHub PROJECT"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-front&theme=apprentice" />  
-            </a>
-            <br>
-        </p>
-        <p>  
-            <!-- Projects -->
-            <a href="https://github.com/laureanomarenco/mascotapps-back">
-            <img alt="Tamara Antonella's GitHub PROJECT"
-                    src="https://github-readme-stats.vercel.app/api/pin/?username=laureanomarenco&repo=mascotapps-back&theme=apprentice" />
-            </a>
-            <br>
-        </p>
-        
-       
-        
-</details>
 
 <a href="https://twitter.com/TamaraaDev">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
