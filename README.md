@@ -34,9 +34,6 @@
         <a href = "https://www.codewars.com/users/tamaraantonella"><img src="https://www.codewars.com/users/tamaraantonella/badges/small"></a>
         
 
-<a href="https://twitter.com/TamaraaDev">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />        
-  </a>&nbsp;&nbsp;
 
 
 <div align="right">
